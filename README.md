@@ -1,7 +1,7 @@
 
 
 
-# Destini 🤔
+# StoryReader🤔
 
 ## Our Goal
 
